@@ -1,0 +1,20 @@
+{
+  "name": "ganache-weirdness",
+  "version": "1.0.0",
+  "description": "Minimal example of ganache-cli expressing weird behaviour.",
+  "main": "index.js",
+  "author": "Norbert Dzikowski",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "build": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "ganache-core": "^2.13.2",
+    "ts-node": "^10.4.0",
+    "tsc": "^2.0.3",
+    "typescript": "^4.4.4",
+    "ethers": "^5.5.1"
+  },
+  "dependencies": {}
+}
