@@ -1,0 +1,34 @@
+eth_chainId
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_getTransactionCount
+eth_chainId
+eth_estimateGas
+eth_chainId
+eth_blockNumber
+eth_sendRawTransaction
+eth_chainId
+eth_getTransactionReceipt
+ > Ganache `eth_getTransactionReceipt` notice: the transaction with hash
+ > `0x68a5ac68a55a8071e7849f3fdbc2821820c5931b8286c015f664273c4b511a96` has not
+ > yet been mined.
+eth_chainId
+eth_getTransactionReceipt
+ > Ganache `eth_getTransactionReceipt` notice: the transaction with hash
+ > `0x68a5ac68a55a8071e7849f3fdbc2821820c5931b8286c015f664273c4b511a96` has not
+ > yet been mined.
+
+  Transaction: 0x68a5ac68a55a8071e7849f3fdbc2821820c5931b8286c015f664273c4b511a96
+  Contract created: 0xa193e42526f1fea8c99af609dceabf30c1c29faa
+  Gas usage: 1872956
+  Block number: 1
+  Block time: Thu Nov 11 2021 17:25:22 GMT+0100 (Mitteleuropäische Normalzeit)
+
+eth_chainId
+eth_getTransactionCount
+eth_chainId
+eth_getTransactionByHash
+eth_blockNumber
+eth_chainId
+eth_getTransactionReceipt

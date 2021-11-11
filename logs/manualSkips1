@@ -1,0 +1,29 @@
+evm_mine
+eth_chainId
+eth_chainId
+eth_gasPrice
+eth_getBlockByNumber
+eth_getTransactionCount
+eth_chainId
+eth_estimateGas
+eth_chainId
+eth_blockNumber
+eth_sendRawTransaction
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_getTransactionReceipt
+
+  Transaction: 0x7eedf963d9de40605d0efc75cbd9dcd7df2bd8f83754ec5aea713c715c13ee02
+  Contract created: 0xa193e42526f1fea8c99af609dceabf30c1c29faa
+  Gas usage: 1872956
+  Block number: 2
+  Block time: Thu Nov 11 2021 17:25:27 GMT+0100 (Mitteleuropäische Normalzeit)
+
+eth_chainId
+eth_getTransactionCount
+eth_chainId
+eth_getTransactionByHash
+eth_blockNumber
+eth_chainId
+eth_getTransactionReceipt
