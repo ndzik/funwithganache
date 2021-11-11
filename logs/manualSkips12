@@ -1,8 +1,6 @@
 evm_mine
 eth_chainId
 evm_mine
-evm_mine
-evm_mine
 eth_chainId
 evm_mine
 eth_gasPrice
@@ -14,23 +12,26 @@ evm_mine
 eth_getTransactionCount
 evm_mine
 evm_mine
-evm_mine
 eth_chainId
 evm_mine
 eth_estimateGas
+evm_mine
+evm_mine
 eth_chainId
+evm_mine
 eth_blockNumber
+eth_chainId
 eth_sendRawTransaction
 eth_chainId
 eth_getTransactionReceipt
 eth_chainId
 eth_getTransactionReceipt
 
-  Transaction: 0xe51b876eabe2bbf38d1e2f6c4bbf2b9324e2c3ea0f38cebe39742db65f1bcd15
+  Transaction: 0x9f9f61a65694d99fcfe5ad0916c213d86e82fab1eb33c0214a6ca53fdbfb434c
   Contract created: 0xa193e42526f1fea8c99af609dceabf30c1c29faa
   Gas usage: 1872956
   Block number: 13
-  Block time: Thu Nov 11 2021 17:25:31 GMT+0100 (Mitteleuropäische Normalzeit)
+  Block time: Thu Nov 11 2021 18:09:44 GMT+0100 (Mitteleuropäische Normalzeit)
 
 eth_chainId
 eth_getTransactionCount

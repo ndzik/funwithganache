@@ -17,7 +17,7 @@ function defaultWallet(provider: providers.Web3Provider): Wallet {
 
 function loggerToFile(skippedBlocks: number, targetDir: string) {
   const stream = createWriteStream(`${targetDir}/manualSkips${skippedBlocks}`, {
-    flags: "a",
+    flags: "w",
   });
   return {
     log: (msg: string) => {
